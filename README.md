@@ -2,7 +2,7 @@
 
 Welcome to Mancave Inc.'s GitHub repository! Here, you'll find all the information you need to understand and contribute to our mission of building the ultimate model mancave for men online, designed to help manage every aspect of a man's lifestyle, spending, dating, relationships, and provide streamlined coaching. 
 
-![Mancave Inc. Logo](https://www.example.com/mancave-logo.png)
+![Mancave Inc. Logo](https://i.ibb.co/4FfZ01P/2.png)
 
 ## Table of Contents
 
